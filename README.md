@@ -1,4 +1,4 @@
-# 随选剪贴板（公开版）
+﻿# 随选剪贴板
 
 Windows 本地剪贴板工具。选中文字自动复制，悬浮历史面板支持搜索、置顶和双击粘贴。
 
@@ -6,7 +6,7 @@ Windows 本地剪贴板工具。选中文字自动复制，悬浮历史面板支
 
 ## 下载
 
-在本仓库 Releases 页面下载 `SelectionClipboard-Public-0.4.4.exe`，直接运行。支持 Windows 10/11，依赖系统 .NET Framework。
+在本仓库 Releases 页面下载 `SelectionClipboard-0.4.4.exe`，直接运行。支持 Windows 10/11，依赖系统 .NET Framework。
 
 ## 使用
 
