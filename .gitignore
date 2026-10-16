@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.zip
+*.bin
+*.db
+*.enc
+*.pem
+*.key
+.env*
+__pycache__/
